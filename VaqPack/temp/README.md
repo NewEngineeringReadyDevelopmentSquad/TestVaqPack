@@ -1,3 +1,3 @@
 #This folder needs:
-*.pdf
-*.html
+* .pdf
+* .html
