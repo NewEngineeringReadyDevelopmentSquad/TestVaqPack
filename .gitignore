@@ -1,0 +1,12 @@
+*.class
+/VaqPack/build.xml
+/VaqPack/manifest.mf
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+/VaqPack/nbproject/private/
+/VaqPack/build/
+/VaqPack/dist/
