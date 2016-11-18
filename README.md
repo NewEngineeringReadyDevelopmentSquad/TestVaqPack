@@ -23,7 +23,7 @@ FilenameFilter xmlFilter = (File dir, String name) ->
 	File xmlFiles[] = folder.listFiles(xmlFilter);
 ```
 ## Previous Backlogs:
-Nov 15th: XMLGen
+####Nov 15th: XMLGen
 **Produce a class that creates \*.xmls in a structure defined by Stephen's Team**
 
 **Return type**: _File_ || (_void_ && write to directory)
@@ -33,7 +33,7 @@ Nov 15th: XMLGen
 **Potential Throwable Errors**: _FileNotCreated_.
 
 
-Nov 8th: Functional Email
+####Nov 8th: Functional Email
 **Produce a _WELL DOCUMENTED_ functional multi-recipient multi-attachment Email class**
 
 **Return type**: _void_
